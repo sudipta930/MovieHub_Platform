@@ -32,7 +32,7 @@
         Step 4:
         Go to favorites tab to find the added movie. 
 
-    Host URL: movie-hub-platform.vercel.app
+    Host URL: https://eloquent-snickerdoodle-10dc9a.netlify.app/
     Git URL : https://github.com/sudipta930/MovieHub_Platform.git
 
 
